@@ -3,3 +3,9 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SamuTechMan&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=01C231&text_color=f6f5f4&bg_color=0d1117" alt="Samuel De Albuquerque Almeida github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuTechMan&layout=compact&hide_border=true&title_color=ffffff&text_color=f6f5f4&bg_color=0d1117" />
+
+ <hr color="#FF0000" width="100%">
+  
+  ## [Contact me](https://github.com/SamuTechMan)
+
+ <hr color="#FF0000" width="100%">

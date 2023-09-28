@@ -5,7 +5,9 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuTechMan&layout=compact&hide_border=true&title_color=ffffff&text_color=f6f5f4&bg_color=0d1117" />
 
 
----
-  ## [Contact me](https://br.linkedin.com/in/samuel-de-albuquerque-almeida-3792a0256)
----
+
+
+## [Contact me](https://br.linkedin.com/in/samuel-de-albuquerque-almeida-3792a0256)
+
+
 

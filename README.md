@@ -6,6 +6,6 @@
 
 
 ---
-  ## [Contact me](https://github.com/SamuTechMan)
+  ## [Contact me](https://br.linkedin.com/in/samuel-de-albuquerque-almeida-3792a0256)
 ---
 

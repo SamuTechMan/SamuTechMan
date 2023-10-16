@@ -3,11 +3,31 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SamuTechMan&show_icons=true&count_private=true&hide_border=true&title_color=eef2ff&icon_color=01C231&text_color=f6f5f4&bg_color=0d1117" alt="Samuel De Albuquerque Almeida github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuTechMan&layout=compact&hide_border=true&title_color=ffffff&text_color=f6f5f4&bg_color=0d1117" />
+</div>
 
+---
 
-
-
-## [Contact me](https://br.linkedin.com/in/samuel-de-albuquerque-almeida-3792a0256)
-
-
+<h1>Contact</h1>
+    <div class="contato">
+        <div>
+            <a class="contatoBotao" href="https://www.instagram.com/samuel_a_alm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Image Logo Instagran"></a>
+            <a class="contatoBotao" href="https://br.linkedin.com/in/samuel-de-albuquerque-almeida-3792a0256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="image Logo Image Linkedin"></a>
+        </div>
+    </div>
+    <h1>Skils</h1>
+    <div class="skils">
+        <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="">
+        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="">
+        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="">
+    </div>
+    <h1>Learning</h1>
+    <div class="estudos">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="">
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="">
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="">
+        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="">
+    </div>
 

@@ -14,7 +14,7 @@
             <a class="contatoBotao" href="https://br.linkedin.com/in/samuel-de-albuquerque-almeida-3792a0256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="image Logo Image Linkedin"></a>
         </div>
     </div>
-    <h1>Skils</h1>
+    <h1>Skills</h1>
     <div class="skils">
         <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="">

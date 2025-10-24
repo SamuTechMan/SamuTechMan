@@ -10,7 +10,6 @@
 <h1>Contact</h1>
     <div class="contato">
         <div>
-            <a class="contatoBotao" href="https://www.instagram.com/samuel_a_alm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Image Logo Instagran"></a>
             <a class="contatoBotao" href="https://br.linkedin.com/in/samuel-de-albuquerque-almeida-3792a0256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="image Logo Image Linkedin"></a>
         </div>
     </div>
